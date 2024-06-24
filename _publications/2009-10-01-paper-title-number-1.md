@@ -8,6 +8,6 @@ part tries to evaluate these distributions.'
 date: 2024-05-01
 venue: 'RL Conference'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://ayashabbar.github.io/files/My_Paper.pdf'
 citation: 'Aya, Shabbar. (2024). &quot; Generative-Discriminative Mean Field Distribution Approximation in Multi-agent Reinforcement Learning.&quot; <i>RL Conference</i>. 1(1).'
 ---
