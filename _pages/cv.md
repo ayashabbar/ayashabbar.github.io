@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %
 
-[CV] (http://ayashabbar.github.io/)
+[CV](https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf)
 
 
 
