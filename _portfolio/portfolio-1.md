@@ -1,5 +1,2 @@
-<ul>
-    <li><strong>1/10/2024 Hurray! I'm learning Haskell!</strong></li>
-    <li><strong>9/10/2024 My paper was accepted at the NeurIPS Intrinsically Motivated Open-ended Learning
-        (IMOL) Workshop</strong></li>
-  </ul>
+* 1/10/2024 Hurray! I'm learning Haskell!
+* 9/10/2024 My paper was accepted at the NeurIPS Intrinsically Motivated Open-ended Learning
