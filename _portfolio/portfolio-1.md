@@ -1,7 +1,5 @@
-<!---
-title: "News item number 1"
-excerpt: "Short description of news item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is an item in your news. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. >
+<ul>
+    <li><strong>1/10/2024 Hurray! I'm learning Haskell!</strong></li>
+    <li><strong>9/10/2024 My paper was accepted at the NeurIPS Intrinsically Motivated Open-ended Learning
+        (IMOL) Workshop</strong></li>
+  </ul>
