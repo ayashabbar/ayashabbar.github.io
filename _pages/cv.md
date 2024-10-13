@@ -2,14 +2,15 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+cvurl: 'http://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %
 
-[CV](https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf)
+
+
 
 
 
@@ -17,6 +18,8 @@ redirect_from:
 
 <!---
 Education
+{% include base_path %
+[CV](https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf)
 ======
 **Tishreen University, Mechanical and Electrical Engineering Department Lattakia, Syria**
  - Bachelor of Science in Mechatronics Engineering Oct. 2015 – Oct. 2022
