@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+CV url: 'http://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf'
 
+
+
+
+<!---
 Education
 ======
 **Tishreen University, Mechanical and Electrical Engineering Department Lattakia, Syria**
@@ -61,3 +66,4 @@ Professional Membership
 **SWAN – Syrian Women Academic Network - Remote**
 Member Feb. 2023–Present
 - Participated in an immersive knowledge exchange with different women researchers from different research backgrounds.
+--->
