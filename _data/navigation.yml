@@ -13,7 +13,7 @@ main:
     url: /news/
         
   - title: "Blog Posts"
-    url: /blogposts/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
