@@ -8,5 +8,5 @@ date: 2024-05-01
 venue: 'RL Conference'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://ayashabbar.github.io/files/My_Paper2.pdf'
-citation: 'Aya, Shabbar. (2010). &quot;Generative Adversarial Skill Estimation in Opponent Modeling.&quot; <i>RL Conference</i>. 1(2).'
+citation: 'Aya, Shabbar. (2024). &quot;Generative Adversarial Skill Estimation in Opponent Modeling.&quot; <i>RL Conference</i>. 1(2).'
 ---
