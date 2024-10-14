@@ -2,12 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-cvurl: 'https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf'
+#cvurl: 'https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](https://ayashabbar.github.io/files/Aya_Shabbar_CV.pdf)
 
 
 
