@@ -19,8 +19,7 @@ My work addresses several key areas: <br>
 RL with offline and online data: Studying sample-efficient reinforcement learning, and developing algorithms and theories for learning near-optimal policies.
 - **Representation and meta learning in RL:** I study scalable frameworks for submodular maximization and adaptive meta-learning for discrete tasks, focusing on applications that demand large-scale processing and resilience to data uncertainty. I am also interested in the theory of representation learning and representation transfer in RL.
 - **Algorithmic and theoretical foundations of RLHF:** Exploring analogies between large language models and reinforcement learning.<br>
-
-======
+<br>
 
 I am an Independent Researcher, currently applying for a PhD in Computer Science in the US. Previously, I worked as a Research Assistant under the guidance of Dr. Essa Alghannam, where I focused on time series and computer vision research. I completed my BSc degree in Mechatronics Engineering at Tishreen University in 2022, where Doctor Iyad Hatem was my supervisor. I, additionally, collaborated and worked closely with Doctor Tammam Haidar on Bayesian machine learning. 
 
