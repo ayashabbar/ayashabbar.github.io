@@ -2,11 +2,11 @@
 title: "Model-Agnostic Meta-Learning with Open-Ended Reinforcement Learning"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-12-01-finalpaper
 #excerpt: ''
 date: 2024-12-01
-venue: 'IMOL Workshop - NeurIPS'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: 'Intrinsically Motivated Open-ended Learning Workshop - NeurIPS Conference'
+paperurl: 'https://github.com/ayashabbar/ayashabbar.github.io/blob/master/files/finalpaper.pdf'
 citation: 'Shabbar, Aya. (2024). Model-Agnostic Meta-Learning with Open-Ended Reinforcement Learning'
 ---
 
