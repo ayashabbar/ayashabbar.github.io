@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Aya Shabbar"
 title_separator          : "-"
 name                     : &name "Aya Shabbar"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "ayashabbar/ayashabbar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "marburg.jpg"
   name             : "Aya Shabbar"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher"
