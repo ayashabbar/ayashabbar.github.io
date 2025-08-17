@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-01-my_paper
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-06-01
-venue: 'Finding the Frame Workshop - RL Conference '
+venue: 'Finding the Frame Workshop - RL Conference'
 paperurl: 'http://ayashabbar.github.io/files/my_paper.pdf'
 citation: 'Shabbar, Aya. (2025). Hyperbolic Discounting in Hierarchical Reinforcement Learning'
 ---
