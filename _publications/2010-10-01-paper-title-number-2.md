@@ -1,12 +1,13 @@
 ---
-#title: #"Paper Title Number 2"
-#collection: #publications
-#category: #manuscripts
-#permalink: #/publication/2010-10-01-paper-title-number-2
-#excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
-#date: #2010-10-01
-#venue: #'Journal 1'
-#slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-#citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Idea: Online Opponent Modeling with Foundation Models"
+collection: publications
+category: conferences
+permalink: /publication/2024-06-01-My_Paper4
+#excerpt: ''
+date: 2024-06-01
+venue: 'Aligning Reinforcement Learning Experimentalists and Theorists Workshop, Ideas Track - ICML Conference'
+paperurl: 'http://ayashabbar.github.io/files/My_Paper4.pdf'
+citation: 'Shabbar, Aya. (2024). Idea: Online Opponent Modeling with Foundation Models'
 ---
+
+Opponent modeling (OM) is the ability to use prior knowledge and observations in order to predict the behavior of an opponent. On the other hand, there has been tremendous research at the intersection of foundation models (FM) and decision making which holds tremendous promise for creating powerful new systems that can interact effectively across a diverse range of applications. This paper examines the integration of foundation models with opponent modeling and tackles one of the open problems in FMs for decision-making (i) leveraging and collecting decision-making datasets DRL; specifically datasets for the opponent modeling systems in the large-scale human demonstration, which is hard to scale., and (ii) proposing a new framework for opponent modeling: Using FMs as a guiding tool that enhances the agent capabilities in prediction. The goal is to train a policy from a given environment without reward signals. I propose using foundation models (FMs), i.e., large language models (LLMs) and vision-language models (VLMs), to achieve this goal. The LLM generates instructions that help the agent to learn features of the behavior of the opponent and ultimately enables the agent to exploit the opponent’s strategy in the current environment d(s0). In contrast, the VLM works as a policy-guided learning. The internet-scale knowledge capacity of recent FMs enables automating impractical human effort in the RL framework [1]. Existing works query pre-trained LLMs for tasks to learn [2], language-level plans [3], and language labels [4]; or use pre-trained VLMs to obtain visual feedback [5]. ELLM [6] uses LLMs to propose new tasks for agents to learn. A line of work [7] specifically focuses on using FMs for the Minecraft domain, while none of the works integrate pre-trained LLM and VLM for opponent modeling. Inspired by [8], this work is mainly motivated by two questions: How to leverage and construct datasets for decision-making DRL i.e. FMs and OM? And can we teach RL agents to predict opponents’ actions and strategies accurately in opponent modeling environments without human supervision?

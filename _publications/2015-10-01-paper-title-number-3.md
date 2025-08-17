@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-01-my_paper_0
 #excerpt: ''
 date: 2025-06-01
-venue: 'Intrinsically Motivated Open-ended Learning Workshop - NeurIPS Conference'
+venue: 'Programmatic Reinforcement Learning Workshop - RL Conference'
 paperurl: 'http://ayashabbar.github.io/files/my_paper_0.pdf'
 citation: 'Shabbar, Aya. (2025). Synthesizing Programmatic Reinforcement Learning Policies with Memory-Based Decision Trees'
 ---
