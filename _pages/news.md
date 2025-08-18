@@ -4,8 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-**Learning:**
+**Learning**<br>
 **Jan, 2025:**I'm starting my journey in learning Haskell! <br>
 
-**Reading:**
+**Reading**<br>
 **Aug, 2025:**Currently reading *Distributed Algorithms* by Nancy A. Lynch 
