@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[CV](https://drive.google.com/file/d/15WlDDlmOA4dOjUa-8HuowF3KbSV6QVJb/view?usp=sharing)
 
+<!---
 {% include base_path %}
 
 Education
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>
