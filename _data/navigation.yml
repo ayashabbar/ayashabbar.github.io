@@ -22,6 +22,9 @@ main:
 
   - title: "Service and Leadership"
     url: /service/
+
+  - title: "News"
+    url: /news/  
     
   # - title: "CV"
   #   url: /cv-json/
