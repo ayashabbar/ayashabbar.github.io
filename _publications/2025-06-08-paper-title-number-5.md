@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-12-01-finalpaper
 #excerpt: ''
-date: 2024-12-01
+date: 2024-11-15
 venue: 'Intrinsically Motivated Open-ended Learning Workshop - NeurIPS Conference'
 paperurl: 'http://ayashabbar.github.io/files/finalpaper.pdf'
 citation: 'Shabbar, Aya. (2024). Model-Agnostic Meta-Learning with Open-Ended Reinforcement Learning'
