@@ -1,8 +1,11 @@
 ---
-title: '2025-01-01'
-
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
 ---
+**Learning:**
+**Jan, 2025:**I'm starting my journey in learning Haskell! <br>
 
-I'm starting my journey in learning Haskell! ":)"
-
-
+**Reading:**
+**Aug, 2025:**Currently reading *Distributed Algorithms* by Nancy A. Lynch 
