@@ -19,6 +19,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Service and Leadership"
+    url: /service/
     
   # - title: "CV"
   #   url: /cv-json/

@@ -1,0 +1,11 @@
+**Journal and Conference Reviewer:**
+----------------------------------------------------------------------------------------------------------------------------------------
+- Programmatic Reinforcement Learning Workshop – RLC June, 2025
+- European Workshop on Reinforcement Learning June, 2025
+- Deep Generative Models in Machine Learning (DeLTa) Workshop - ICLR Conference February, 2025
+- Multi-Agent AI in the Real World (MARW) Workshop – AAAI Conference December, 2024
+- The International Conference on Learning Representations (ICLR) October, 2024
+- Training Agents with Foundation Models Workshop – RL Conference June 2024
+- Journal of Computer Vision and Image Processing (IJCVIP) - IGI Global 2023–Present
+- International Conference on Machine Learning (ICML) Jan. 2022–Mar. 2022
+- Artificial Intelligence and Statistics Conference (AISTATS) Oct. 2022–Dec. 2022
