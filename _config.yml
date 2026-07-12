@@ -25,11 +25,11 @@ author:
   avatar           : "marburg.jpg"
   name             : "Aya Shabbar"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Researcher"
-  location         : "Syria"
-  employer         : "Tishreen University"
+  bio              : "Research Intern at Max Planck Institute"
+  location         : "Tübingen, Germany"
+  employer         : "Max Planck Institute for Biological Cybernetics"
   uri              : # URL
-  email            : "ayashabbar@gmail.com" 
+  email            : "aya.shabbar@tuebingen.mpg.de" 
 
   # Academic websites
   academia         : # URL
@@ -104,7 +104,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" #"master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
