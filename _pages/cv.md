@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "You can check my CV here:"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](https://drive.google.com/file/d/15WlDDlmOA4dOjUa-8HuowF3KbSV6QVJb/view?usp=sharing)
+[CV](https://drive.google.com/file/d/19VTHYrZ5nbJjmkQYDwMwwn2aduEA5g5n/view?usp=sharing)
 
